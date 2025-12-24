@@ -1,3 +1,12 @@
+## Personal Work (PW)
+This repository documents real-world problem-solving examples,
+technical reasoning, and support workflows relevant to SaaS,
+cloud, and remote IT support roles.
+
+### Featured Projects
+- Support Case Walkthrough – SaaS troubleshooting & customer resolution
+- AWS Basics Lab – Cloud fundamentals & networking concepts
+
 # Damola Ajiboye
 
 Remote IT Support & SaaS Technical Support Specialist  
